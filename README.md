@@ -122,4 +122,16 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/kshitiz-12/DSA/tree/master/0138-copy-list-with-random-pointer) |
+## Array
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/kshitiz-12/DSA/tree/master/1260-shift-2d-grid) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/kshitiz-12/DSA/tree/master/1260-shift-2d-grid) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/kshitiz-12/DSA/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
