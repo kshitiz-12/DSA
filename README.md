@@ -126,6 +126,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Array
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/kshitiz-12/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [1260-shift-2d-grid](https://github.com/kshitiz-12/DSA/tree/master/1260-shift-2d-grid) |
 ## Matrix
 |  |
@@ -139,4 +140,20 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/kshitiz-12/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/kshitiz-12/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/kshitiz-12/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/kshitiz-12/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/kshitiz-12/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
