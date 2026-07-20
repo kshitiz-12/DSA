@@ -113,8 +113,13 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kshitiz-12/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/kshitiz-12/DSA/tree/master/0138-copy-list-with-random-pointer) |
 ## Two Pointers
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kshitiz-12/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Hash Table
+|  |
+| ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/kshitiz-12/DSA/tree/master/0138-copy-list-with-random-pointer) |
 <!---LeetCode Topics End-->
