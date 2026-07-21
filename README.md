@@ -123,6 +123,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kshitiz-12/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0295-find-median-from-data-stream](https://github.com/kshitiz-12/DSA/tree/master/0295-find-median-from-data-stream) |
 ## Hash Table
 |  |
 | ------- |
@@ -158,6 +159,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kshitiz-12/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/kshitiz-12/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/kshitiz-12/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/kshitiz-12/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
@@ -165,6 +167,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kshitiz-12/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kshitiz-12/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/kshitiz-12/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/kshitiz-12/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kshitiz-12/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/kshitiz-12/DSA/tree/master/0973-k-closest-points-to-origin) |
@@ -193,10 +196,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/kshitiz-12/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kshitiz-12/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/kshitiz-12/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kshitiz-12/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Merge Sort
 |  |
