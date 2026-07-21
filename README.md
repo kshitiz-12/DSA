@@ -123,10 +123,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/kshitiz-12/DSA/tree/master/0138-copy-list-with-random-pointer) |
+| [0347-top-k-frequent-elements](https://github.com/kshitiz-12/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Array
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kshitiz-12/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/kshitiz-12/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/kshitiz-12/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1260-shift-2d-grid](https://github.com/kshitiz-12/DSA/tree/master/1260-shift-2d-grid) |
 ## Matrix
@@ -145,21 +147,25 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kshitiz-12/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/kshitiz-12/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/kshitiz-12/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Sorting
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kshitiz-12/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/kshitiz-12/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/kshitiz-12/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kshitiz-12/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/kshitiz-12/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/kshitiz-12/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kshitiz-12/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/kshitiz-12/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/kshitiz-12/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Math
 |  |
@@ -169,4 +175,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/kshitiz-12/DSA/tree/master/0973-k-closest-points-to-origin) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/kshitiz-12/DSA/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/kshitiz-12/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
