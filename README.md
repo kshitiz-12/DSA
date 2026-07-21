@@ -89,6 +89,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0098-validate-binary-search-tree](https://github.com/kshitiz-12/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/kshitiz-12/DSA/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/kshitiz-12/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/kshitiz-12/DSA/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kshitiz-12/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/kshitiz-12/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
@@ -106,6 +107,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/kshitiz-12/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kshitiz-12/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/kshitiz-12/DSA/tree/master/0200-number-of-islands) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -132,6 +134,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/kshitiz-12/DSA/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kshitiz-12/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/kshitiz-12/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/kshitiz-12/DSA/tree/master/0973-k-closest-points-to-origin) |
@@ -139,6 +142,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/kshitiz-12/DSA/tree/master/0200-number-of-islands) |
 | [1260-shift-2d-grid](https://github.com/kshitiz-12/DSA/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
@@ -207,4 +211,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kshitiz-12/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/kshitiz-12/DSA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
