@@ -88,6 +88,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/kshitiz-12/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/kshitiz-12/DSA/tree/master/0110-balanced-binary-tree) |
+| [0133-clone-graph](https://github.com/kshitiz-12/DSA/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/kshitiz-12/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/kshitiz-12/DSA/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kshitiz-12/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -108,6 +109,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/kshitiz-12/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0133-clone-graph](https://github.com/kshitiz-12/DSA/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/kshitiz-12/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/kshitiz-12/DSA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/kshitiz-12/DSA/tree/master/0695-max-area-of-island) |
@@ -134,6 +136,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Hash Table
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/kshitiz-12/DSA/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/kshitiz-12/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0347-top-k-frequent-elements](https://github.com/kshitiz-12/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Array
@@ -227,4 +230,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0200-number-of-islands](https://github.com/kshitiz-12/DSA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/kshitiz-12/DSA/tree/master/0695-max-area-of-island) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/kshitiz-12/DSA/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
