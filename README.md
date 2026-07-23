@@ -112,6 +112,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/kshitiz-12/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0127-word-ladder](https://github.com/kshitiz-12/DSA/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/kshitiz-12/DSA/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/kshitiz-12/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/kshitiz-12/DSA/tree/master/0200-number-of-islands) |
@@ -142,6 +143,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/kshitiz-12/DSA/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/kshitiz-12/DSA/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/kshitiz-12/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0347-top-k-frequent-elements](https://github.com/kshitiz-12/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -255,4 +257,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/kshitiz-12/DSA/tree/master/0207-course-schedule) |
+## String
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/kshitiz-12/DSA/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
