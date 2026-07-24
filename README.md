@@ -160,6 +160,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0994-rotting-oranges](https://github.com/kshitiz-12/DSA/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/kshitiz-12/DSA/tree/master/1260-shift-2d-grid) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kshitiz-12/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/kshitiz-12/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -213,6 +214,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0509-fibonacci-number](https://github.com/kshitiz-12/DSA/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/kshitiz-12/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kshitiz-12/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/kshitiz-12/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Geometry
 |  |
 | ------- |
@@ -255,6 +257,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kshitiz-12/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/kshitiz-12/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Topological Sort
 |  |
 | ------- |
@@ -271,4 +274,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/kshitiz-12/DSA/tree/master/0509-fibonacci-number) |
+## Enumeration
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/kshitiz-12/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
