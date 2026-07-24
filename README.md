@@ -152,6 +152,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0198-house-robber](https://github.com/kshitiz-12/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/kshitiz-12/DSA/tree/master/0200-number-of-islands) |
+| [0213-house-robber-ii](https://github.com/kshitiz-12/DSA/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kshitiz-12/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/kshitiz-12/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/kshitiz-12/DSA/tree/master/0417-pacific-atlantic-water-flow) |
@@ -274,6 +275,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0070-climbing-stairs](https://github.com/kshitiz-12/DSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/kshitiz-12/DSA/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/kshitiz-12/DSA/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/kshitiz-12/DSA/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/kshitiz-12/DSA/tree/master/0746-min-cost-climbing-stairs) |
 ## Memoization
