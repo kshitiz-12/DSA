@@ -156,6 +156,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0417-pacific-atlantic-water-flow](https://github.com/kshitiz-12/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/kshitiz-12/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/kshitiz-12/DSA/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/kshitiz-12/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0973-k-closest-points-to-origin](https://github.com/kshitiz-12/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/kshitiz-12/DSA/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/kshitiz-12/DSA/tree/master/1260-shift-2d-grid) |
@@ -272,6 +273,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0070-climbing-stairs](https://github.com/kshitiz-12/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/kshitiz-12/DSA/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/kshitiz-12/DSA/tree/master/0746-min-cost-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
