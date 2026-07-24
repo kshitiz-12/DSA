@@ -211,6 +211,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kshitiz-12/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/kshitiz-12/DSA/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/kshitiz-12/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kshitiz-12/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -269,10 +270,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kshitiz-12/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/kshitiz-12/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kshitiz-12/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/kshitiz-12/DSA/tree/master/0509-fibonacci-number) |
 ## Enumeration
 |  |
