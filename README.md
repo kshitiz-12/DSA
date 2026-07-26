@@ -275,6 +275,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/kshitiz-12/DSA/tree/master/0127-word-ladder) |
+| [1143-longest-common-subsequence](https://github.com/kshitiz-12/DSA/tree/master/1143-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -286,6 +287,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0300-longest-increasing-subsequence](https://github.com/kshitiz-12/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/kshitiz-12/DSA/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/kshitiz-12/DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [1143-longest-common-subsequence](https://github.com/kshitiz-12/DSA/tree/master/1143-longest-common-subsequence) |
 ## Memoization
 |  |
 | ------- |
