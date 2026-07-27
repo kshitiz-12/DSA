@@ -158,6 +158,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0215-kth-largest-element-in-an-array](https://github.com/kshitiz-12/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0300-longest-increasing-subsequence](https://github.com/kshitiz-12/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/kshitiz-12/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0416-partition-equal-subset-sum](https://github.com/kshitiz-12/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/kshitiz-12/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/kshitiz-12/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/kshitiz-12/DSA/tree/master/0733-flood-fill) |
@@ -287,6 +288,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0198-house-robber](https://github.com/kshitiz-12/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kshitiz-12/DSA/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/kshitiz-12/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/kshitiz-12/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/kshitiz-12/DSA/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/kshitiz-12/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/kshitiz-12/DSA/tree/master/1143-longest-common-subsequence) |
