@@ -274,6 +274,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/kshitiz-12/DSA/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/kshitiz-12/DSA/tree/master/0127-word-ladder) |
 | [1143-longest-common-subsequence](https://github.com/kshitiz-12/DSA/tree/master/1143-longest-common-subsequence) |
 ## Dynamic Programming
@@ -282,6 +283,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0062-unique-paths](https://github.com/kshitiz-12/DSA/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/kshitiz-12/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/kshitiz-12/DSA/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/kshitiz-12/DSA/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/kshitiz-12/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kshitiz-12/DSA/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/kshitiz-12/DSA/tree/master/0300-longest-increasing-subsequence) |
