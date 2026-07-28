@@ -117,6 +117,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0199-binary-tree-right-side-view](https://github.com/kshitiz-12/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/kshitiz-12/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/kshitiz-12/DSA/tree/master/0207-course-schedule) |
+| [0322-coin-change](https://github.com/kshitiz-12/DSA/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/kshitiz-12/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/kshitiz-12/DSA/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/kshitiz-12/DSA/tree/master/0695-max-area-of-island) |
@@ -157,6 +158,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0213-house-robber-ii](https://github.com/kshitiz-12/DSA/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kshitiz-12/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0300-longest-increasing-subsequence](https://github.com/kshitiz-12/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/kshitiz-12/DSA/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/kshitiz-12/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/kshitiz-12/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/kshitiz-12/DSA/tree/master/0417-pacific-atlantic-water-flow) |
@@ -289,6 +291,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0198-house-robber](https://github.com/kshitiz-12/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kshitiz-12/DSA/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/kshitiz-12/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/kshitiz-12/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/kshitiz-12/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/kshitiz-12/DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/kshitiz-12/DSA/tree/master/0509-fibonacci-number) |
