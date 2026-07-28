@@ -142,6 +142,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kshitiz-12/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0295-find-median-from-data-stream](https://github.com/kshitiz-12/DSA/tree/master/0295-find-median-from-data-stream) |
+| [0763-partition-labels](https://github.com/kshitiz-12/DSA/tree/master/0763-partition-labels) |
 ## Hash Table
 |  |
 | ------- |
@@ -149,6 +150,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0133-clone-graph](https://github.com/kshitiz-12/DSA/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/kshitiz-12/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0347-top-k-frequent-elements](https://github.com/kshitiz-12/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0763-partition-labels](https://github.com/kshitiz-12/DSA/tree/master/0763-partition-labels) |
 ## Array
 |  |
 | ------- |
@@ -283,6 +285,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0072-edit-distance](https://github.com/kshitiz-12/DSA/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/kshitiz-12/DSA/tree/master/0127-word-ladder) |
+| [0763-partition-labels](https://github.com/kshitiz-12/DSA/tree/master/0763-partition-labels) |
 | [1143-longest-common-subsequence](https://github.com/kshitiz-12/DSA/tree/master/1143-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
@@ -325,4 +328,5 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0045-jump-game-ii](https://github.com/kshitiz-12/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kshitiz-12/DSA/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/kshitiz-12/DSA/tree/master/0134-gas-station) |
+| [0763-partition-labels](https://github.com/kshitiz-12/DSA/tree/master/0763-partition-labels) |
 <!---LeetCode Topics End-->
