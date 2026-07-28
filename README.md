@@ -167,6 +167,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0347-top-k-frequent-elements](https://github.com/kshitiz-12/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/kshitiz-12/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/kshitiz-12/DSA/tree/master/0417-pacific-atlantic-water-flow) |
+| [0435-non-overlapping-intervals](https://github.com/kshitiz-12/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/kshitiz-12/DSA/tree/master/0494-target-sum) |
 | [0695-max-area-of-island](https://github.com/kshitiz-12/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/kshitiz-12/DSA/tree/master/0733-flood-fill) |
@@ -208,6 +209,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0215-kth-largest-element-in-an-array](https://github.com/kshitiz-12/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/kshitiz-12/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/kshitiz-12/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/kshitiz-12/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0973-k-closest-points-to-origin](https://github.com/kshitiz-12/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
@@ -301,6 +303,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0300-longest-increasing-subsequence](https://github.com/kshitiz-12/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/kshitiz-12/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/kshitiz-12/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/kshitiz-12/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/kshitiz-12/DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/kshitiz-12/DSA/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/kshitiz-12/DSA/tree/master/0746-min-cost-climbing-stairs) |
@@ -328,5 +331,6 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0045-jump-game-ii](https://github.com/kshitiz-12/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kshitiz-12/DSA/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/kshitiz-12/DSA/tree/master/0134-gas-station) |
+| [0435-non-overlapping-intervals](https://github.com/kshitiz-12/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0763-partition-labels](https://github.com/kshitiz-12/DSA/tree/master/0763-partition-labels) |
 <!---LeetCode Topics End-->
