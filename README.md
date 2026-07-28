@@ -152,6 +152,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/kshitiz-12/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kshitiz-12/DSA/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/kshitiz-12/DSA/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/kshitiz-12/DSA/tree/master/0198-house-robber) |
@@ -285,6 +286,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/kshitiz-12/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kshitiz-12/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/kshitiz-12/DSA/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/kshitiz-12/DSA/tree/master/0064-minimum-path-sum) |
@@ -319,5 +321,6 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/kshitiz-12/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kshitiz-12/DSA/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
