@@ -151,6 +151,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0138-copy-list-with-random-pointer](https://github.com/kshitiz-12/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0347-top-k-frequent-elements](https://github.com/kshitiz-12/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0763-partition-labels](https://github.com/kshitiz-12/DSA/tree/master/0763-partition-labels) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/kshitiz-12/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Array
 |  |
 | ------- |
@@ -235,6 +236,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0973-k-closest-points-to-origin](https://github.com/kshitiz-12/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kshitiz-12/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/kshitiz-12/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/kshitiz-12/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Geometry
 |  |
 | ------- |
@@ -247,6 +249,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kshitiz-12/DSA/tree/master/0347-top-k-frequent-elements) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/kshitiz-12/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Design
 |  |
 | ------- |
@@ -289,6 +292,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0127-word-ladder](https://github.com/kshitiz-12/DSA/tree/master/0127-word-ladder) |
 | [0763-partition-labels](https://github.com/kshitiz-12/DSA/tree/master/0763-partition-labels) |
 | [1143-longest-common-subsequence](https://github.com/kshitiz-12/DSA/tree/master/1143-longest-common-subsequence) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/kshitiz-12/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -321,6 +325,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/kshitiz-12/DSA/tree/master/0062-unique-paths) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/kshitiz-12/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Backtracking
 |  |
 | ------- |
