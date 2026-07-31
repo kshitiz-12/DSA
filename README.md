@@ -288,6 +288,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/kshitiz-12/DSA/tree/master/0006-zigzag-conversion) |
 | [0072-edit-distance](https://github.com/kshitiz-12/DSA/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/kshitiz-12/DSA/tree/master/0127-word-ladder) |
 | [0763-partition-labels](https://github.com/kshitiz-12/DSA/tree/master/0763-partition-labels) |
