@@ -169,6 +169,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0416-partition-equal-subset-sum](https://github.com/kshitiz-12/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/kshitiz-12/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/kshitiz-12/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/kshitiz-12/DSA/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/kshitiz-12/DSA/tree/master/0494-target-sum) |
 | [0695-max-area-of-island](https://github.com/kshitiz-12/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/kshitiz-12/DSA/tree/master/0733-flood-fill) |
@@ -196,6 +197,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/kshitiz-12/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0486-predict-the-winner](https://github.com/kshitiz-12/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/kshitiz-12/DSA/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
@@ -232,6 +234,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0062-unique-paths](https://github.com/kshitiz-12/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kshitiz-12/DSA/tree/master/0070-climbing-stairs) |
+| [0486-predict-the-winner](https://github.com/kshitiz-12/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/kshitiz-12/DSA/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/kshitiz-12/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kshitiz-12/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -309,6 +312,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0322-coin-change](https://github.com/kshitiz-12/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/kshitiz-12/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/kshitiz-12/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/kshitiz-12/DSA/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/kshitiz-12/DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/kshitiz-12/DSA/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/kshitiz-12/DSA/tree/master/0746-min-cost-climbing-stairs) |
@@ -339,4 +343,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0134-gas-station](https://github.com/kshitiz-12/DSA/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/kshitiz-12/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0763-partition-labels](https://github.com/kshitiz-12/DSA/tree/master/0763-partition-labels) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/kshitiz-12/DSA/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
